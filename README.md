@@ -98,7 +98,7 @@ https://brcaexchange.org/release/73
 
 ---
 
-## Processing Local Variants (VCF)
+## Processing Local Variants (Lebanese Cohort)
 
 ### Step 1: Annotate VCF
 
