@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="framework.png" alt="BRCA Genes" width="750">
+  <img src="framework.png" alt="brca_vus_Framework" width="750">
 </p>
 
 ---
