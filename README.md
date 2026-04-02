@@ -66,15 +66,9 @@ docker run -it brca_vus_framework
 
 Download manually:
 
-- Reference genome:
-  ```
-  Homo_sapiens.GRCh37.dna.primary_assembly.fa.gz
-  ```
+- Reference genome: ```Homo_sapiens.GRCh37.dna.primary_assembly.fa.gz```
 
-- dbNSFP plugin:
-  ```
-  dbNSFP4.9a_grch37.gz
-  ```
+- dbNSFP plugin: ```dbNSFP4.9a_grch37.gz```
 
 These are required for VEP annotation of the local variants.
 
@@ -96,10 +90,7 @@ https://brcaexchange.org/release/73
 ### Steps
 
 1. Download BRCA Exchange dataset
-2. Run:
-   ```
-   process_global_vcf.ipynb
-   ```
+2. Run: ```process_global_vcf.ipynb```
 
 ### Output
 
@@ -118,11 +109,7 @@ chmod +x annotate_full.sh
 
 ### Step 2: Process Annotated VCF
 
-Run:
-
-```
-process_local_vcf.ipynb
-```
+Run: ```process_local_vcf.ipynb```
 
 ### Output
 
@@ -132,11 +119,7 @@ process_local_vcf.ipynb
 
 ## Model Training and Inference
 
-Run:
-
-```
-model.ipynb
-```
+Run: ```model.ipynb```
 
 ### Inputs
 
