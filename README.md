@@ -1,4 +1,4 @@
-# An Equity-Driven Framework for BRCA1/2 Variant Interpretation in Data-Limited Populations: Integrating Global Supervised Learning with Population-Aware Anomaly Detection
+# AA Framework for BRCA1/2 Variant Interpretation in Data-Limited Populations Integrating Global Supervised Learning and Population-Specific Anomaly Detection
 
 ---
 
@@ -12,7 +12,7 @@
 
 This repository contains code to reproduce the experiments from the paper:
 
-**"An Equity-Driven Framework for BRCA1/2 Variant Interpretation in Data-Limited Populations: Integrating Global Supervised Learning with Population-Aware Anomaly Detection"** by Rida Assaf, Zein Shehabeddine, Halim Saad and Nada Assaf.
+**"A Framework for BRCA1/2 Variant Interpretation in Data-Limited Populations Integrating Global Supervised Learning and Population-Specific Anomaly Detection"** by Rida Assaf, Zein Shehabeddine, Halim Saad and Nada Assaf.
 
 The framework combines:
 - A **global supervised model** trained on high-confidence BRCA variants.
