@@ -1,4 +1,4 @@
-# AA Framework for BRCA1/2 Variant Interpretation in Data-Limited Populations Integrating Global Supervised Learning and Population-Specific Anomaly Detection
+# A Framework for BRCA1/2 Variant Interpretation in Data-Limited Populations Integrating Global Supervised Learning and Population-Specific Anomaly Detection
 
 ---
 
